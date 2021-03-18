@@ -42,7 +42,7 @@ export const projectsData = [
     info: 'Lifestyle sotre i an e-Commerce website for shirts, cameras and watches. this website is enabled with responsive UI, User autentications and validations, Database to store users data and Security. Some of the founctionalities are Signup, login, add to cart, settings etc.',
     info2: 'Easy to use website with good UX. Shop online be safe.',
     url: 'https://github.com/akshay-turkar/Lifestylestore',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/akshay-turkar/Lifestylestore', // if no repo, the button will not show up
   },
   
 ];
