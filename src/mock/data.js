@@ -44,6 +44,15 @@ export const projectsData = [
     url: 'https://github.com/akshay-turkar/Lifestylestore',
     repo: 'https://github.com/akshay-turkar/Lifestylestore', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project3.png',
+    title: 'Robofriends',
+    info: 'Robofriends is a simple single page developed using React and npm and with diffrent packages.',
+    info2: 'Easy seamless page with JSON parsing and API integration.',
+    url: 'https://akshay-turkar.github.io/robofriends/',
+    repo: 'https://github.com/akshay-turkar/robofriends', // if no repo, the button will not show up
+  },
   
 ];
 
