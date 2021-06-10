@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: "I'am Akshay Turkar a Student/Devloper/Coder. A creative, imaginative full stack devloper with sound skills.",
   paragraphTwo: "I'am from India(Bhopal). From the city of Lakes And Begums.",
   paragraphThree: "I am a engineering under grad from Sagar Institute of Science and Technology.",
-  resume: 'https://1drv.ms/w/s!AhtnmwAl6ksyhBS-8EN7iig3_yME', // if no resume, the button will not show up
+  resume: 'https://1drv.ms/w/s!AhtnmwAl6ksyhBNY_IgofvOefN6O?e=081z3N', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
