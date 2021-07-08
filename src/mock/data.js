@@ -18,22 +18,31 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: "I'am Akshay Turkar a Student/Devloper/Coder. A creative, imaginative full stack devloper with sound skills.",
+  paragraphOne: "I'am Akshay Turkar a Student/Devloper/Coder. A creative, imaginative full stack devloper with sound skills.Passionate about new technologies",
   paragraphTwo: "I'am from India(Bhopal). From the city of Lakes And Begums.",
   paragraphThree: "I am a engineering under grad from Sagar Institute of Science and Technology.",
-  resume: 'https://1drv.ms/w/s!AhtnmwAl6ksyhBNY_IgofvOefN6O?e=081z3N', // if no resume, the button will not show up
+  resume: 'https://1drv.ms/w/s!AhtnmwAl6ksyhBMchVNFzBS3yoHe', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project1.png',
-    title: 'Gradient Generator',
-    info: 'This is a Background generator page. Developed using HTML,CSS,Java Script. Developers face difficulty while selecting the colors or gradient this project help them to select the colors and see the bigger picture of selected gradient for easy selection. ',
-    info2: 'Easy to generate gradient background, Beautiful gradients are on your way.',
-    url: 'https://akshay-turkar.github.io/background-generator/',
-    repo: 'https://github.com/akshay-turkar/background-generator', // if no repo, the button will not show up
+    img: 'project4.png',
+    title: 'Cook-D-Book',
+    info: 'This website can be use for buying selling used and refurbished books. This is an user based website where a user can be a buyer and as well as a seller just like olx.',
+    info2: 'Our website is mainly focuses on trading of books amongst the users.',
+    url: 'https://cook-d-book.000webhostapp.com/',
+    repo: 'https://github.com/akshay-turkar/Cook-d-Book', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project3.png',
+    title: 'Robofriends',
+    info: 'Robofriends is a simple single page developed using React and npm and with diffrent packages.',
+    info2: 'Easy seamless page with JSON parsing and API integration.',
+    url: 'https://akshay-turkar.github.io/robofriends/',
+    repo: 'https://github.com/akshay-turkar/robofriends', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -46,13 +55,24 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project3.png',
-    title: 'Robofriends',
-    info: 'Robofriends is a simple single page developed using React and npm and with diffrent packages.',
-    info2: 'Easy seamless page with JSON parsing and API integration.',
-    url: 'https://akshay-turkar.github.io/robofriends/',
-    repo: 'https://github.com/akshay-turkar/robofriends', // if no repo, the button will not show up
+    img: 'project5.png',
+    title: 'COLOUR JENGA',
+    info: 'Colour Jenga is a game where you have to fill the colurs and each colour have specific points for each block. and the more colours you can extrat the more points will get, and if you select the cross block the game gets over. ',
+    info2: 'This game is devloped using HTML, CSS and JavaScript',
+    url: 'https://akshay-turkar.github.io/colour-jenga/',
+    repo: 'https://github.com/akshay-turkar/colour-jenga', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project1.png',
+    title: 'Gradient Generator',
+    info: 'This is a Background generator page. Developed using HTML,CSS,Java Script. Developers face difficulty while selecting the colors or gradient this project help them to select the colors and see the bigger picture of selected gradient for easy selection. ',
+    info2: 'Easy to generate gradient background, Beautiful gradients are on your way.',
+    url: 'https://akshay-turkar.github.io/background-generator/',
+    repo: 'https://github.com/akshay-turkar/background-generator', // if no repo, the button will not show up
+  },
+  
+  
   
 ];
 
