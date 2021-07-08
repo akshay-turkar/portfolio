@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: "I'am Akshay Turkar a Student/Devloper/Coder. A creative, imaginative full stack devloper with sound skills.Passionate about new technologies",
+  paragraphOne: "I'am Akshay Turkar a Student/Devloper/Coder. A creative, imaginative full stack devloper with sound skills.Passionate about new technologies and stuff.",
   paragraphTwo: "I'am from India(Bhopal). From the city of Lakes And Begums.",
   paragraphThree: "I am a engineering under grad from Sagar Institute of Science and Technology.",
   resume: 'https://1drv.ms/w/s!AhtnmwAl6ksyhBMchVNFzBS3yoHe', // if no resume, the button will not show up
